@@ -1,4 +1,4 @@
-name: global-ci
+name: globalci
 
 on: [push]
 
